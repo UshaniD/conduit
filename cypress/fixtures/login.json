@@ -1,0 +1,13 @@
+{
+    "credentials": {
+        "email": "ushanidemel1@gmail.com",
+        "password": "Password1",
+        "invalidEmail": "ushanidemel123@gmail.com",
+        "invalidPassword": "password1"
+    },
+    "validationMessages": {
+        "invalidValue": "email or password is invalid",
+        "emptyEmail": "email can't be blank",
+        "emptyPassword": "password can't be blank"
+    }
+}
