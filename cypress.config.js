@@ -11,6 +11,7 @@ module.exports = defineConfig({
     //viewportWidth: 1280,
     //viewportHeight: 800,
     watchForFileChanges: false,
-    defaultCommandTimeout: 8000
+    defaultCommandTimeout: 8000,
+    projectId: "tpxd11"
   },
 });
